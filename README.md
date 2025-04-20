@@ -15,9 +15,16 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![STATA](https://img.shields.io/badge/STATA-1F77B4?style=for-the-badge&logo=stata&logoColor=white)
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## 🚀 Projects
 
@@ -35,6 +42,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: mingtc@seas.upenn.edu
+- 📧 School Email: mingtc@seas.upenn.edu
+- 📪 Personal Email: cmtcctv@126.com
 - 💼 LinkedIn: [Mingtian Chen](https://www.linkedin.com/in/mingtianchen)
 - 🏙️ Location: Philadelphia, PA
