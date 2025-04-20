@@ -35,7 +35,7 @@
 - 🛠️ Python-based application classifier for identifying different app types
 - 🔗 [Project Repository](https://github.com/CatherineW1711/AIHackthon)
 
-  ### Monetary Policy & Macroeconomic Analysis (VAR, R)
+### Monetary Policy & Macroeconomic Analysis (VAR, R)
 
 - 📈 Empirical analysis of how interest rate shocks affect Montana's GDP & unemployment
 - 🧮 Built with R (VAR, IRF, ACF/PACF, panel data)
