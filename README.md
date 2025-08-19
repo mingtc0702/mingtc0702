@@ -36,11 +36,19 @@
 - 🔗 [Project Repository](https://github.com/CatherineW1711/AIHackthon)
 
 ### Monetary Policy & Macroeconomic Analysis (VAR, R)
-
 - 📈 Empirical analysis of how interest rate shocks affect Montana's GDP & unemployment
 - 🧮 Built with R (VAR, IRF, ACF/PACF, panel data)
 - 🧾 Includes report, visualizations, and reproducible code
 - 🔗 [Project Repository](https://github.com/mingtc0702/monetary-policy-analysis)
+
+### File Organizer Assistant (C++ / Qt6)
+- 📂 Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
+- ⚡ Features **one-click auto-organization** and **real-time directory monitoring**  
+- 🖥️ Modern GUI with system tray integration, progress bar, and status updates  
+- ⚙️ Fully customizable with `config.yaml` for flexible file rules and ignore lists  
+- 🍎 Packaged as a **macOS DMG installer with native Dock icon support**  
+- 🔗 [Project Repository](https://github.com/mingtc0702/FileOrganizer)
+
 
 
 ## 📊 Research Experience
