@@ -61,6 +61,6 @@
 ## 📫 Contact Me
 
 - 📧 School Email: mingtc@seas.upenn.edu
-- 📪 Personal Email: cmtcctv@126.com
+- 📪 Personal Email: mingtc0702@gmail.com, cmtcctv@126.com
 - 💼 LinkedIn: [Mingtian Chen](https://www.linkedin.com/in/mingtianchen)
 - 🏙️ Location: Philadelphia, PA
