@@ -5,7 +5,7 @@
 - 🌱 Currently pursuing my Master's in CIT at University of Pennsylvania
 - 📚 Courses: Computer Systems Programming, Data Structures, Algorithms, Applied Machine Learning
 - 🔭 Previously studied Business Psychology and Economics at UCSD
-- 💼 Experience in financial technology and data analysis
+- 💼 Experience in software engineering, financial technology and data analysis
 
 ## 🛠️ Technical Skills
 
