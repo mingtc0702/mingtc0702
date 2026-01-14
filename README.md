@@ -39,9 +39,9 @@
 - 🧩 Backend powered by **Node.js + Express**, frontend built with **React + Recharts**
 - 🔗 [Project Repository](https://github.com/mingtc0702/ai-dev-career-insights)
 
-### File Organizer Assistant (C++ / Qt6)
-- 📂 Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
-- ⚡ Features **one-click auto-organization** and **real-time directory monitoring**  
+### 📂 File Organizer Assistant (C++ / Qt6)
+- ⚡ Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
+- 👀Features **one-click auto-organization** and **real-time directory monitoring**  
 - 🖥️ Modern GUI with system tray integration, progress bar, and status updates  
 - ⚙️ Fully customizable with `config.yaml` for flexible file rules and ignore lists  
 - 🍎 Packaged as a **macOS DMG installer with native Dock icon support**  
@@ -54,15 +54,25 @@
 - 🔒 Implemented thread-safe resource management and graceful shutdown
 - 🔗 [Project Repository](https://github.com/upenn-systems/25sp-cit5950-mingtc0702-lingchonghu-123-searchserver)
 
-### Monetary Policy & Macroeconomic Analysis (VAR, R)
-- 📈 Empirical analysis of how interest rate shocks affect Montana's GDP & unemployment
+### ♟️ Othello: AI Strategy Game (Java / JavaFX)
+- 🎮 Built a fully functional **Othello strategy game** with an interactive **JavaFX GUI**
+- 🤖 Implemented **Minimax and Alpha-Beta Pruning** algorithms for intelligent AI opponents
+- 🧠 Explored **Monte Carlo Tree Search (MCTS)** and **custom Negamax variants** for strategy evaluation
+- 🧩 Designed game architecture using **MVC pattern**, separating game logic, AI engine, and UI layers
+- 🖥️ Features include **legal move hints, responsive board, and time-remaining indicator**
+- 🎨 Styled UI using **CSS and FXML** for clean layout and visual consistency
+- 🧪 Tested gameplay logic by mocking board states and validating against online Othello engines
+- 🔗 [Project Repository](https://github.com/cit5940-25sp/cit-5940-final-project-group-22)
+
+### 📈 Monetary Policy & Macroeconomic Analysis (R / Econometrics)
+- 📊 Empirical analysis of how interest rate shocks affect Montana's GDP & unemployment
 - 🧮 Built with R (VAR, IRF, ACF/PACF, panel data)
 - 🧾 Includes report, visualizations, and reproducible code
 - 🔗 [Project Repository](https://github.com/mingtc0702/monetary-policy-analysis)
 
-### DevMind: AI Code Enhancement Framework
-- 🧠 Framework with ML architecture for code enhancement
-- 🔍 Detects and adds missing default features to AI-generated code
+### 🧠 DevMind: AI Code Enhancement Framework (Python)
+- 🔍 Framework with ML architecture for code enhancement
+- 🧬 Detects and adds missing default features to AI-generated code
 - 🛠️ Python-based application classifier for identifying different app types
 - 🔗 [Project Repository](https://github.com/CatherineW1711/AIHackthon)
 
