@@ -3,7 +3,7 @@
 ## 🎓 Computer & Information Technology Student @ UPenn
 
 - 🌱 Currently pursuing my Master's in CIT at University of Pennsylvania
-- 📚 Courses: Database & Information Systems, Big Data Analytics, Artificial Intelligence, Applied Machine Learning, Computer Systems Programming, Data Structures & Software Design, Algorithms & Computation
+- 📚 Courses: Database & Information Systems, Big Data Analytics, Applied Machine Learning, Computer Systems Programming, Data Structures & Software Design, Algorithms & Computation
 - 🔭 Previously studied Business Psychology and Economics at UCSD
 - 💼 Experience in software engineering, financial technology and data analysis
 
