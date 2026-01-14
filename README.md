@@ -37,7 +37,7 @@
 - 🧠 Built complex **SQL analytics pipelines (CTEs, window functions)** to study skill demand, AI adoption, and salary gaps
 - ⚡ Optimized query performance using **indexes and materialized views** for interactive dashboards
 - 🧩 Backend powered by **Node.js + Express**, frontend built with **React + Recharts**
-- 🔗 [Project Repository]([https://github.com/mingtc0702/StackJobs](https://github.com/mingtc0702/ai-dev-career-insights))
+- 🔗 [Project Repository](https://github.com/mingtc0702/ai-dev-career-insights)
 
 ### File Organizer Assistant (C++ / Qt6)
 - 📂 Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
