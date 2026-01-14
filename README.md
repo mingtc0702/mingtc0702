@@ -31,6 +31,14 @@
 
 ## 🚀 Projects
 
+### 📊 StackJobs: Full-Stack Job Market Analytics Platform (React / Node / PostgreSQL)
+- 🔍 Full-stack analytics platform integrating **StackOverflow Developer Survey (24k+)** and **LinkedIn Job Postings (100k+)**
+- 🗄️ Designed **relational schema, entity resolution logic**, and analytical data model in **PostgreSQL (AWS RDS)**
+- 🧠 Built complex **SQL analytics pipelines (CTEs, window functions)** to study skill demand, AI adoption, and salary gaps
+- ⚡ Optimized query performance using **indexes and materialized views** for interactive dashboards
+- 🧩 Backend powered by **Node.js + Express**, frontend built with **React + Recharts**
+- 🔗 [Project Repository]([https://github.com/mingtc0702/StackJobs](https://github.com/mingtc0702/ai-dev-career-insights))
+
 ### File Organizer Assistant (C++ / Qt6)
 - 📂 Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
 - ⚡ Features **one-click auto-organization** and **real-time directory monitoring**  
