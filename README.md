@@ -47,6 +47,13 @@
 - 🍎 Packaged as a **macOS DMG installer with native Dock icon support**  
 - 🔗 [Project Repository](https://github.com/mingtc0702/FileOrganizer)
 
+### 🌐 Multithreaded HTTP Server (C++ / POSIX / pthreads)
+- 🧵 Built a **multithreaded HTTP 1.0 server** from scratch in **C++** using **POSIX sockets and pthreads**
+- ⚙️ Designed **listener + worker thread model** to handle concurrent client connections
+- 📁 Supports **static file serving (HTML, CSS, assets)** with request parsing and error handling
+- 🔒 Implemented thread-safe resource management and graceful shutdown
+- 🔗 [Project Repository](https://github.com/upenn-systems/25sp-cit5950-mingtc0702-lingchonghu-123-searchserver)
+
 ### Monetary Policy & Macroeconomic Analysis (VAR, R)
 - 📈 Empirical analysis of how interest rate shocks affect Montana's GDP & unemployment
 - 🧮 Built with R (VAR, IRF, ACF/PACF, panel data)
