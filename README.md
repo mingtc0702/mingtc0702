@@ -46,7 +46,7 @@
 - 🎯 Achieved **580.7s MAE** using **XGBoost + store target encoding**, a **~21% improvement** over the linear baseline
 - ⚙️ Focused on production-style ML workflow: **data cleaning, feature engineering, model evaluation**, and performance analysis
 - 🛠️ Tech stack: **Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, SQL**
-- 🎥 [Demo Video]([YOUR_DEMO_LINK_HERE](https://drive.google.com/file/d/13CpKh6Lo49QGnu90M26Y_W4Dvk3K9GlZ/view?usp=sharing))
+- 🎥 [Demo Video]([https://drive.google.com/file/d/13CpKh6Lo49QGnu90M26Y_W4Dvk3K9GlZ/view?usp=sharing])
 
 ### 📂 File Organizer Assistant (C++ / Qt6)
 - ⚡ Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
