@@ -39,6 +39,15 @@
 - 🧩 Backend powered by **Node.js + Express**, frontend built with **React + Recharts**
 - 🔗 [Project Repository](https://github.com/mingtc0702/ai-dev-career-insights)
 
+### 🚚 DoorDash ETA Prediction: Data-Intensive ML Pipeline (Python / XGBoost / SQL)
+- 📦 Built an end-to-end **data/ML pipeline** on **197K+ DoorDash delivery records** to predict delivery duration and analyze delay drivers
+- 🧩 Designed feature pipelines for **marketplace congestion, peak-hour demand, basket complexity, store encoding**, and **rolling history signals**
+- 📊 Benchmarked **9 models** across classical ML, tree-based methods, and sequence/deep learning approaches
+- 🎯 Achieved **580.7s MAE** using **XGBoost + store target encoding**, a **~21% improvement** over the linear baseline
+- ⚙️ Focused on production-style ML workflow: **data cleaning, feature engineering, model evaluation**, and performance analysis
+- 🛠️ Tech stack: **Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, SQL**
+- 🎥 [Demo Video]([YOUR_DEMO_LINK_HERE](https://drive.google.com/file/d/13CpKh6Lo49QGnu90M26Y_W4Dvk3K9GlZ/view?usp=sharing))
+
 ### 📂 File Organizer Assistant (C++ / Qt6)
 - ⚡ Cross-platform **file management assistant** built in **C++17** with **Qt Creator + Qt6**  
 - 👀Features **one-click auto-organization** and **real-time directory monitoring**  
