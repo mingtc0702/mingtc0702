@@ -55,6 +55,15 @@
 - 🧩 Backend powered by **Node.js + Express**, frontend built with **React + Recharts**
 - 🔗 [Project Repository](https://github.com/mingtc0702/ai-dev-career-insights)
 
+### 🎨 Conditional Image Style Transfer for Penn Campus (Stable Diffusion / LoRA / ControlNet)
+- 🏫 Built a GenAI pipeline to transform Penn campus photos across **time-of-day** and **weather** conditions while preserving buildings, walkways, and camera angle
+- 🧠 Fine-tuned **Stable Diffusion 1.5** with **LoRA** on a custom **307-image campus dataset**
+- 🧩 Compared **Canny, Segmentation, and Depth ControlNet** stacks for structure preservation and prompt fidelity
+- 📊 Evaluated outputs using **LPIPS, SSIM, PSNR**, and **CLIP-based condition accuracy**
+- 🎯 Best model: **Canny + Segmentation**, achieving **LPIPS = 0.647** and **90.5% time-of-day accuracy**
+- 🛠️ Tech stack: **Python, Stable Diffusion, LoRA, ControlNet, CLIP, LPIPS**
+- 🔗 [Project Repository]([https://github.com/mingtc0702/ai-dev-career-insights](https://github.com/varunsgithub/StableDiffusionProject/tree/main))
+
 ### 🚚 DoorDash ETA Prediction: Data-Intensive ML Pipeline (Python / XGBoost / SQL)
 - 📦 Built an end-to-end **data/ML pipeline** on **197K+ DoorDash delivery records** to predict delivery duration and analyze delay drivers
 - 🧩 Designed feature pipelines for **marketplace congestion, peak-hour demand, basket complexity, store encoding**, and **rolling history signals**
