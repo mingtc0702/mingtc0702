@@ -62,7 +62,7 @@
 - 📊 Evaluated outputs using **LPIPS, SSIM, PSNR**, and **CLIP-based condition accuracy**
 - 🎯 Best model: **Canny + Segmentation**, achieving **LPIPS = 0.647** and **90.5% time-of-day accuracy**
 - 🛠️ Tech stack: **Python, Stable Diffusion, LoRA, ControlNet, CLIP, LPIPS**
-- 🔗 [Project Repository]([https://github.com/mingtc0702/ai-dev-career-insights](https://github.com/varunsgithub/StableDiffusionProject/tree/main))
+- 🔗 [Project Repository](https://github.com/varunsgithub/StableDiffusionProject/tree/main)
 
 ### 🚚 DoorDash ETA Prediction: Data-Intensive ML Pipeline (Python / XGBoost / SQL)
 - 📦 Built an end-to-end **data/ML pipeline** on **197K+ DoorDash delivery records** to predict delivery duration and analyze delay drivers
