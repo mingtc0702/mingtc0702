@@ -16,6 +16,12 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![MockMvc](https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -46,6 +52,15 @@
 ![POSIX](https://img.shields.io/badge/POSIX-4B5563?style=for-the-badge)
 
 ## 🚀 Projects
+
+### ☕ Task Management REST API (Java / Spring Boot / PostgreSQL)
+- 🚀 Building a **RESTful backend** for user, project, and task management using **Java, Spring Boot, and PostgreSQL**
+- 🧩 Implemented **CRUD operations, DTO-based API contracts, input validation, and centralized exception handling** using Spring MVC
+- 🔐 **Planned:** Secure REST APIs with **Spring Security, JWT authentication, and user-specific authorization**
+- 🗄️ Designed **relational data models and entity relationships** using **Spring Data JPA / Hibernate**, with planned indexing, pagination, and query optimization
+- 🧪 Developed **JUnit 5 and MockMvc integration tests**, with plans to introduce **GitHub Actions CI/CD**
+- 🐳 **Planned:** Containerize the application with **Docker** and deploy it with **Swagger/OpenAPI documentation**
+- 🔗 [Project Repository](https://github.com/mingtc0702/spring-boot-task-api)
 
 ### 📊 StackJobs: Full-Stack Job Market Analytics Platform (React / Node / PostgreSQL)
 - 🔍 Full-stack analytics platform integrating **StackOverflow Developer Survey (24k+)** and **LinkedIn Job Postings (100k+)**
