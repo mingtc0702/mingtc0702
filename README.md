@@ -55,7 +55,7 @@
 
 ### ☕ Task Management REST API (Java / Spring Boot / PostgreSQL)
 - 🚀 Building a **RESTful backend** for user, project, and task management using **Java, Spring Boot, and PostgreSQL**
-- 🧩 Implemented **CRUD operations, DTO-based API contracts, input validation, and centralized exception handling** using Spring MVC
+- 🧩 Implemented **CRUD operations, DTO-based API contracts, and centralized exception handling** using Spring MVC
 - 🔐 **Planned:** Secure REST APIs with **Spring Security, JWT authentication, and user-specific authorization**
 - 🗄️ Designed **relational data models and entity relationships** using **Spring Data JPA / Hibernate**, with planned indexing, pagination, and query optimization
 - 🧪 Developed **JUnit 5 and MockMvc integration tests**, with plans to introduce **GitHub Actions CI/CD**
